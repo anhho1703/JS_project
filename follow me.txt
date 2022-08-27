@@ -1,0 +1,5 @@
+Luyện tạo branch mới, thay đổi 1 số thứ trong branch phụ này, sau đó pull request trên git hub 
+vào file changed xem có gì thay đổi, có thể thêm comment có nên add hay ko nên add chỗ đó ko 
+vào Conversation=> confirm merge => để mere vào branch master
+Merge vào master trên máy đầu tiên Pull về sau đó kiếm tra trong master đã pull về cái đã được thay đổi hay chưa 
+VS tool hỗ trợ ko cần viết command nữa:  gõ tên commit, bấm publish branch để push lên (hoặc Ctrl+enter)
